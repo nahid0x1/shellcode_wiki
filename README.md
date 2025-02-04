@@ -6,5 +6,5 @@ Shellcode is a small piece of executable code used in exploitation to control a 
 - You can also optionally pack the output executable with UPX which will reduce the binary size from ~10MB to ~3MB. To do this, install [UPX](https://github.com/upx/upx/releases/) and run
 
 ```bash
-upx.exe --ultra-brute skuld.exe
+upx.exe --ultra-brute payload.exe
 ```
